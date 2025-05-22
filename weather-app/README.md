@@ -202,9 +202,9 @@ This is an academic project, but suggestions are welcome:
 This project is created for educational purposes as part of a university assignment.
 
 ## Author
-Your Name - University Assignment Project  
-Contact: your.email@university.edu  
-GitHub: @your-username
+Sihao Wang - University Assignment Project  
+Contact: wangsihao74@gmail.com  
+GitHub: @23165063
 
 ## Next Steps
 - Run the application following the Quick Start guide
